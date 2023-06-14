@@ -1,0 +1,10 @@
+20:23:01.596 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on login continue button
+20:23:06.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating account successful creation message
+20:23:06.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+20:23:09.020 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+20:23:09.062 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link
+20:23:09.184 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+20:23:09.185 [main] INFO  testCases.TC_002_LoginTest - providing login details
+20:23:09.402 [main] INFO  testCases.TC_002_LoginTest - Clicked on login continue button
+20:23:09.425 [main] INFO  testCases.TC_002_LoginTest - Check if my account heading is displayed
+20:23:09.425 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
