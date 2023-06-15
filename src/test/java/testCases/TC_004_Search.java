@@ -43,13 +43,13 @@ public class TC_004_Search extends BaseClass {
 		logger.info("clicked product description check box");
 		Thread.sleep(2000);
 		
+		sh.clickNewSearchButton();
+		logger.info("clicked on search button");
+		Thread.sleep(2000);
+		
 		sh.sortProductSearch();
 		logger.info("Sort product with price from Low to high");
 		Thread.sleep(2000);
-		sh.clickNewSearchButton();
-		logger.info("clicked on search button");
-		
-		Thread.sleep(3000);
 		
 		logger.info("***Verifying that Macbook product  exists***");
 		

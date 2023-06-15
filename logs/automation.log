@@ -83,3 +83,13 @@
 18:38:46.606 [main] INFO  testCases.TC_004_Search - clicked on search button
 18:38:49.611 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
 18:38:49.659 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
+18:44:45.538 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+18:44:45.540 [main] INFO  testCases.TC_004_Search - Enter a product name
+18:44:45.764 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:44:49.847 [main] INFO  testCases.TC_004_Search - select product category
+18:44:51.903 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+18:44:53.956 [main] INFO  testCases.TC_004_Search - clicked product description check box
+18:44:56.153 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:44:58.336 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+18:45:00.341 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+18:45:00.388 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
