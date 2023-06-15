@@ -14,6 +14,7 @@ public class MyAccountPage extends BasePage{
 	By link_logout = By.linkText("Logout");
 	
 	
+	
 	public boolean verifyMyAccountPageExists() {
 		try 
 		{
@@ -25,6 +26,7 @@ public class MyAccountPage extends BasePage{
 		} 
 		
 	}
+	
 	
 	
 	public void clickLogoutButton() {

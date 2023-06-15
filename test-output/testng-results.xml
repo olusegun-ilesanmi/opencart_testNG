@@ -2,18 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-12T19:57:05 WAT" name="opencartSuite" finished-at="2023-06-12T19:57:11 WAT" duration-ms="5836">
+  <suite started-at="2023-06-15T18:34:18 WAT" name="opencartSuite" finished-at="2023-06-15T18:34:43 WAT" duration-ms="24575">
     <groups>
-      <group name="Master">
-        <method signature="TC_002_LoginTest.test_login()[pri:0, instance:testCases.TC_002_LoginTest@363ee3a2]" name="test_login" class="testCases.TC_002_LoginTest"/>
-      </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC_002_LoginTest.test_login()[pri:0, instance:testCases.TC_002_LoginTest@363ee3a2]" name="test_login" class="testCases.TC_002_LoginTest"/>
-      </group> <!-- Sanity -->
     </groups>
-    <test started-at="2023-06-12T19:57:05 WAT" name="opencartTest" finished-at="2023-06-12T19:57:11 WAT" duration-ms="5836">
-      <class name="testCases.TC_002_LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@363ee3a2]" started-at="2023-06-12T19:57:05 WAT" name="setUp" finished-at="2023-06-12T19:57:10 WAT" duration-ms="4958" status="PASS">
+    <test started-at="2023-06-15T18:34:18 WAT" name="opencartTest" finished-at="2023-06-15T18:34:43 WAT" duration-ms="24575">
+      <class name="testCases.TC_004_Search">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_004_Search@4386f16]" started-at="2023-06-15T18:34:18 WAT" name="setUp" finished-at="2023-06-15T18:34:27 WAT" duration-ms="8480" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test_login()[pri:0, instance:testCases.TC_002_LoginTest@363ee3a2]" started-at="2023-06-12T19:57:10 WAT" name="test_login" finished-at="2023-06-12T19:57:11 WAT" duration-ms="633" status="PASS">
+        <test-method signature="testSearchProduct()[pri:0, instance:testCases.TC_004_Search@4386f16]" started-at="2023-06-15T18:34:27 WAT" name="testSearchProduct" finished-at="2023-06-15T18:34:43 WAT" duration-ms="15861" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@363ee3a2]" started-at="2023-06-12T19:57:11 WAT" name="tearDown" finished-at="2023-06-12T19:57:11 WAT" duration-ms="115" status="PASS">
+        </test-method> <!-- testSearchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_Search@4386f16]" started-at="2023-06-15T18:34:43 WAT" name="tearDown" finished-at="2023-06-15T18:34:43 WAT" duration-ms="110" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_002_LoginTest -->
+      </class> <!-- testCases.TC_004_Search -->
     </test> <!-- opencartTest -->
   </suite> <!-- opencartSuite -->
 </testng-results>

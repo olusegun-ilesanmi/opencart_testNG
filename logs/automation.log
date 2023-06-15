@@ -8,3 +8,78 @@
 20:23:09.402 [main] INFO  testCases.TC_002_LoginTest - Clicked on login continue button
 20:23:09.425 [main] INFO  testCases.TC_002_LoginTest - Check if my account heading is displayed
 20:23:09.425 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+16:32:26.151 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:33:11.006 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:33:11.040 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link
+16:33:11.181 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+16:33:11.182 [main] INFO  testCases.TC_002_LoginTest - providing login details
+16:33:11.423 [main] INFO  testCases.TC_002_LoginTest - Clicked on login continue button
+16:33:11.444 [main] INFO  testCases.TC_002_LoginTest - Check if my account heading is displayed
+16:33:11.444 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+16:34:55.625 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:34:55.659 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link
+16:34:55.774 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+16:34:55.774 [main] INFO  testCases.TC_002_LoginTest - providing login details
+16:34:56.001 [main] INFO  testCases.TC_002_LoginTest - Clicked on login continue button
+16:34:56.023 [main] INFO  testCases.TC_002_LoginTest - Check if my account heading is displayed
+16:34:56.023 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+17:45:01.809 [main] INFO  testCases.TC_004_Search - ***Starting Search Test***
+17:45:01.811 [main] INFO  testCases.TC_004_Search - ***Enter a product name***
+17:45:02.043 [main] INFO  testCases.TC_004_Search - ***clicked on search button***
+17:45:02.043 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook exists***
+17:45:02.065 [main] INFO  testCases.TC_004_Search - ***Finished Search Test***
+18:24:33.217 [main] INFO  testCases.TC_004_Search - ***Starting Search Test***
+18:24:33.220 [main] INFO  testCases.TC_004_Search - ***Enter a product name***
+18:24:33.472 [main] INFO  testCases.TC_004_Search - ***clicked on search button***
+18:24:40.882 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook exists***
+18:24:40.926 [main] INFO  testCases.TC_004_Search - ***Finished Search Test***
+18:29:40.775 [main] INFO  testCases.TC_004_Search - Starting Search Test
+18:29:40.777 [main] INFO  testCases.TC_004_Search - Enter a product name
+18:29:41.030 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:29:45.116 [main] INFO  testCases.TC_004_Search - select product category
+18:29:45.140 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+18:29:45.161 [main] INFO  testCases.TC_004_Search - clicked product description check box
+18:29:45.321 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+18:29:45.437 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:29:48.442 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+18:29:48.491 [main] INFO  testCases.TC_004_Search - ***Finished Search Test***
+18:31:25.940 [main] INFO  testCases.TC_004_Search - Starting Search Test
+18:31:25.943 [main] INFO  testCases.TC_004_Search - Enter a product name
+18:31:26.187 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:31:30.269 [main] INFO  testCases.TC_004_Search - select product category
+18:31:32.326 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+18:31:34.373 [main] INFO  testCases.TC_004_Search - clicked product description check box
+18:31:36.568 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+18:31:38.763 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:31:41.768 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+18:31:41.816 [main] INFO  testCases.TC_004_Search - ***Finished Search Test***
+18:34:27.267 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+18:34:27.270 [main] INFO  testCases.TC_004_Search - Enter a product name
+18:34:27.518 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:34:31.571 [main] INFO  testCases.TC_004_Search - select product category
+18:34:33.622 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+18:34:35.666 [main] INFO  testCases.TC_004_Search - clicked product description check box
+18:34:37.862 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+18:34:40.068 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:34:43.073 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+18:34:43.122 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
+18:36:54.370 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+18:36:54.373 [main] INFO  testCases.TC_004_Search - Enter a product name
+18:36:54.612 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:36:58.696 [main] INFO  testCases.TC_004_Search - select product category
+18:37:00.753 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+18:37:02.807 [main] INFO  testCases.TC_004_Search - clicked product description check box
+18:37:05.032 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+18:37:07.227 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:37:10.232 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+18:37:10.280 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
+18:38:33.749 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+18:38:33.752 [main] INFO  testCases.TC_004_Search - Enter a product name
+18:38:33.992 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:38:38.075 [main] INFO  testCases.TC_004_Search - select product category
+18:38:40.132 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+18:38:42.181 [main] INFO  testCases.TC_004_Search - clicked product description check box
+18:38:44.407 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+18:38:46.606 [main] INFO  testCases.TC_004_Search - clicked on search button
+18:38:49.611 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+18:38:49.659 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
