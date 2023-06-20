@@ -12,6 +12,7 @@ public class MyAccountPage extends BasePage{
 	
 	By txt_Account_message = By.xpath("//h2[normalize-space()='My Account']");
 	By link_logout = By.linkText("Logout");
+	By btn_logout = By.xpath("//a[normalize-space()='Continue']");
 	
 	
 	
@@ -31,6 +32,12 @@ public class MyAccountPage extends BasePage{
 	
 	public void clickLogoutButton() {
 		driver.findElement(link_logout).click();
+	}
+	
+	public void clickLogout() {
+		
+	    driver.findElement(btn_logout).click();
+		
 	}
 	
 	

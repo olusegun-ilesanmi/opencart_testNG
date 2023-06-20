@@ -93,3 +93,196 @@
 18:44:58.336 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
 18:45:00.341 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
 18:45:00.388 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
+10:16:41.160 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+10:16:41.168 [main] INFO  testCases.TC_004_Search - Enter a product name
+10:16:41.433 [main] INFO  testCases.TC_004_Search - clicked on search button
+10:16:45.494 [main] INFO  testCases.TC_004_Search - select product category
+10:16:47.549 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+10:16:49.602 [main] INFO  testCases.TC_004_Search - clicked product description check box
+10:16:51.778 [main] INFO  testCases.TC_004_Search - clicked on search button
+10:16:53.993 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+10:16:55.999 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+10:20:26.795 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+10:20:26.799 [main] INFO  testCases.TC_004_Search - Enter a product name
+10:20:27.042 [main] INFO  testCases.TC_004_Search - clicked on search button
+10:20:31.129 [main] INFO  testCases.TC_004_Search - select product category
+10:20:33.183 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+10:20:35.236 [main] INFO  testCases.TC_004_Search - clicked product description check box
+10:20:37.458 [main] INFO  testCases.TC_004_Search - clicked on search button
+10:20:39.656 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+10:20:41.662 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+10:25:25.272 [main] INFO  testCases.TC_004_Search - ***Starting TC_004_Search***
+10:25:25.274 [main] INFO  testCases.TC_004_Search - Enter a product name
+10:25:25.519 [main] INFO  testCases.TC_004_Search - clicked on search button
+10:25:29.605 [main] INFO  testCases.TC_004_Search - select product category
+10:25:31.668 [main] INFO  testCases.TC_004_Search - clicked subcategory checkbox
+10:25:33.720 [main] INFO  testCases.TC_004_Search - clicked product description check box
+10:25:35.920 [main] INFO  testCases.TC_004_Search - clicked on search button
+10:25:38.126 [main] INFO  testCases.TC_004_Search - Sort product with price from Low to high
+10:25:40.131 [main] INFO  testCases.TC_004_Search - ***Verifying that Macbook product  exists***
+10:25:40.190 [main] INFO  testCases.TC_004_Search - ***Finished TC_004_Search***
+11:46:50.932 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+11:46:50.934 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+11:46:51.193 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:46:51.241 [main] INFO  testCases.TC_005_AddToCartTest - select product category
+11:46:53.294 [main] INFO  testCases.TC_005_AddToCartTest - clicked subcategory checkbox
+11:46:55.349 [main] INFO  testCases.TC_005_AddToCartTest - clicked product description check box
+11:46:57.548 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:46:59.759 [main] INFO  testCases.TC_005_AddToCartTest - Sort product with price from Low to high
+11:47:01.765 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+11:48:11.150 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+11:48:11.153 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+11:48:11.432 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:48:11.481 [main] INFO  testCases.TC_005_AddToCartTest - select product category
+11:48:13.538 [main] INFO  testCases.TC_005_AddToCartTest - clicked subcategory checkbox
+11:48:15.592 [main] INFO  testCases.TC_005_AddToCartTest - clicked product description check box
+11:48:17.783 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:48:19.953 [main] INFO  testCases.TC_005_AddToCartTest - Sort product with price from Low to high
+11:48:21.959 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+11:49:08.447 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+11:49:08.449 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+11:49:08.710 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:49:08.756 [main] INFO  testCases.TC_005_AddToCartTest - select product category
+11:49:10.806 [main] INFO  testCases.TC_005_AddToCartTest - clicked subcategory checkbox
+11:49:12.863 [main] INFO  testCases.TC_005_AddToCartTest - clicked product description check box
+11:49:15.054 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:49:17.256 [main] INFO  testCases.TC_005_AddToCartTest - Sort product with price from Low to high
+11:49:19.262 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+11:53:44.407 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+11:53:44.410 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+11:53:44.677 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:53:44.727 [main] INFO  testCases.TC_005_AddToCartTest - select product category
+11:53:46.783 [main] INFO  testCases.TC_005_AddToCartTest - clicked subcategory checkbox
+11:53:48.836 [main] INFO  testCases.TC_005_AddToCartTest - clicked product description check box
+11:53:51.026 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+11:53:53.230 [main] INFO  testCases.TC_005_AddToCartTest - Sort product with price from Low to high
+11:53:55.235 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:06:12.456 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:06:12.459 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:06:12.775 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:06:12.824 [main] INFO  testCases.TC_005_AddToCartTest - select product category
+12:06:14.884 [main] INFO  testCases.TC_005_AddToCartTest - clicked subcategory checkbox
+12:06:16.938 [main] INFO  testCases.TC_005_AddToCartTest - clicked product description check box
+12:06:19.141 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:06:21.350 [main] INFO  testCases.TC_005_AddToCartTest - Sort product with price from Low to high
+12:06:23.356 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:07:54.657 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:07:54.658 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:07:54.923 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:07:54.973 [main] INFO  testCases.TC_005_AddToCartTest - select product category
+12:07:57.006 [main] INFO  testCases.TC_005_AddToCartTest - clicked subcategory checkbox
+12:07:59.038 [main] INFO  testCases.TC_005_AddToCartTest - clicked product description check box
+12:08:01.229 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:08:03.438 [main] INFO  testCases.TC_005_AddToCartTest - Sort product with price from Low to high
+12:08:05.444 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:10:36.821 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:10:36.823 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:10:37.110 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:10:39.112 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:14:01.594 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:14:01.598 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:14:01.888 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:14:03.894 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:22:24.823 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:22:24.825 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:22:25.101 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:22:27.117 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:29:37.679 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:29:37.682 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:29:37.989 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:29:40.004 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:30:22.582 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:30:22.585 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:30:22.861 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:30:24.876 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product  exists***
+12:30:26.119 [main] INFO  testCases.TC_005_AddToCartTest - Clicked on the product
+12:30:29.125 [main] INFO  testCases.TC_005_AddToCartTest - Add the quantity to be purchased
+12:30:29.211 [main] INFO  testCases.TC_005_AddToCartTest - Added product to cart
+12:30:29.211 [main] INFO  testCases.TC_005_AddToCartTest - Confirm success message is displayed
+12:30:29.283 [main] INFO  testCases.TC_005_AddToCartTest - ***Finished TC_005_AddToCartTest***
+12:33:21.004 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:33:21.007 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:33:21.277 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:33:23.295 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product exists***
+12:33:24.415 [main] INFO  testCases.TC_005_AddToCartTest - Clicked on the product
+12:33:27.420 [main] INFO  testCases.TC_005_AddToCartTest - Add the quantity to be purchased
+12:33:27.526 [main] INFO  testCases.TC_005_AddToCartTest - Added product to cart
+12:33:27.526 [main] INFO  testCases.TC_005_AddToCartTest - Confirm success message is displayed
+12:33:27.604 [main] INFO  testCases.TC_005_AddToCartTest - ***Finished TC_005_AddToCartTest***
+12:35:24.691 [main] INFO  testCases.TC_005_AddToCartTest - ***Starting TC_005_AddToCartTest***
+12:35:24.694 [main] INFO  testCases.TC_005_AddToCartTest - Enter a product name
+12:35:24.975 [main] INFO  testCases.TC_005_AddToCartTest - clicked on search button
+12:35:26.992 [main] INFO  testCases.TC_005_AddToCartTest - ***Verifying that Macbook product exists***
+12:35:28.159 [main] INFO  testCases.TC_005_AddToCartTest - Clicked on the product
+12:35:31.165 [main] INFO  testCases.TC_005_AddToCartTest - Add the quantity to be purchased
+12:35:34.322 [main] INFO  testCases.TC_005_AddToCartTest - Added product to cart
+12:35:34.322 [main] INFO  testCases.TC_005_AddToCartTest - Confirm success message is displayed
+12:35:34.392 [main] INFO  testCases.TC_005_AddToCartTest - ***Finished TC_005_AddToCartTest***
+12:57:29.166 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+12:57:29.169 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+12:57:29.211 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+12:57:29.375 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+12:57:29.375 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+12:57:29.831 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+12:57:34.881 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+12:57:35.012 [main] INFO  testCases.TC_006_EndToEndTest - registration successful
+13:07:09.473 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+13:07:09.475 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+13:07:09.536 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+13:07:09.684 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+13:07:09.685 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+13:07:10.147 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:07:15.194 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+13:09:31.634 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+13:09:31.640 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+13:09:31.684 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+13:09:31.834 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+13:09:31.835 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+13:09:32.250 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:09:37.295 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+13:09:37.418 [main] INFO  testCases.TC_006_EndToEndTest - registration successful
+13:14:03.992 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+13:14:03.993 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+13:14:04.025 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+13:14:04.173 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+13:14:04.174 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+13:14:04.613 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:14:09.656 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+13:14:09.777 [main] INFO  testCases.TC_006_EndToEndTest - registration successful
+13:15:53.279 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+13:15:53.280 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+13:15:53.326 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+13:15:53.471 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+13:15:53.472 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+13:15:53.910 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:15:58.956 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+13:15:59.079 [main] INFO  testCases.TC_006_EndToEndTest - registration successful
+13:18:50.120 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+13:18:50.122 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+13:18:50.155 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+13:18:50.321 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+13:18:50.322 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+13:18:50.783 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:18:55.828 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+13:18:55.968 [main] INFO  testCases.TC_006_EndToEndTest - registration successful
+13:20:06.132 [main] INFO  testCases.TC_006_EndToEndTest - ***Starting TC_006_EndToEndTest***
+13:20:06.133 [main] INFO  testCases.TC_006_EndToEndTest - regristering user
+13:20:06.165 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on my account link
+13:20:06.312 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on register link
+13:20:06.313 [main] INFO  testCases.TC_006_EndToEndTest - Providing customer's account details
+13:20:06.716 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:20:11.762 [main] INFO  testCases.TC_006_EndToEndTest - validating account successful creation message
+13:20:11.898 [main] INFO  testCases.TC_006_EndToEndTest - registration successful
+13:20:18.365 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login link
+13:20:18.366 [main] INFO  testCases.TC_006_EndToEndTest - providing login details
+13:20:18.547 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on login continue button
+13:20:20.552 [main] INFO  testCases.TC_006_EndToEndTest - Check if my account heading is displayed
+13:20:20.592 [main] INFO  testCases.TC_006_EndToEndTest - Login was successful
+13:20:23.597 [main] INFO  testCases.TC_006_EndToEndTest - Enter a product name
+13:20:23.829 [main] INFO  testCases.TC_006_EndToEndTest - clicked on search button
+13:20:25.844 [main] INFO  testCases.TC_006_EndToEndTest - ***Verifying that Macbook product exists***
+13:20:28.684 [main] INFO  testCases.TC_006_EndToEndTest - Clicked on the product
+13:20:31.690 [main] INFO  testCases.TC_006_EndToEndTest - Add the quantity to be purchased
+13:20:34.811 [main] INFO  testCases.TC_006_EndToEndTest - Added product to cart
+13:20:36.817 [main] INFO  testCases.TC_006_EndToEndTest - Confirm success message is displayed
+13:20:36.852 [main] INFO  testCases.TC_006_EndToEndTest - ***Finished TC_006_EndToEndTest***

@@ -3,6 +3,8 @@ package pageObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+/*import org.openqa.selenium.WebElement;
+import org.openqa.selenium.JavascriptExecutor; */
 
 
 
@@ -26,6 +28,9 @@ public class RegistrationPage extends BasePage {
 	By btn_submit = By.xpath("//input[@value='Continue']");
 	By txt_msg_confirmation = By.xpath("//h1[normalize-space()='Your Account Has Been Created!']");
 	By link_btn_continue = By.xpath("//a[normalize-space()='Continue']");
+	
+	
+	//JavascriptExecutor js = (JavascriptExecutor) driver;
 	
 	
 	
@@ -74,8 +79,12 @@ public class RegistrationPage extends BasePage {
 	
 	} 
 	
+	
 	public void completeRegistration() {
-		driver.findElement(link_btn_continue).click();
+
+		driver.findElement(link_btn_continue).click();;
+		//js.executeScript("arguments[0].click();",ctnButton);
 		} 
+
 
 }

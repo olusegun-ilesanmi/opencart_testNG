@@ -7,7 +7,7 @@ import pageObjects.HomePage;
 import pageObjects.SearchPage;
 import testBase.BaseClass;
 
-public class TC_004_Search extends BaseClass {
+public class TC_004_SearchProductTest extends BaseClass {
 	
 	
 	HomePage hp;
@@ -18,7 +18,9 @@ public class TC_004_Search extends BaseClass {
 	void testSearchProduct() throws InterruptedException {
 		
 		
-		logger.info("***Starting TC_004_Search***");
+		logger.info("***Starting TC_004_SearchProductTest***");
+		
+		try {
 		hp = new HomePage(driver);
 		
 		logger.info("Enter a product name");
@@ -31,7 +33,7 @@ public class TC_004_Search extends BaseClass {
 		
 		sh = new SearchPage(driver);
 		
-		sh.selectProductsFromCategory();
+		sh.selectProductsFromCategory("20");
 		logger.info("select product category");
 		Thread.sleep(2000);
 		
@@ -47,20 +49,20 @@ public class TC_004_Search extends BaseClass {
 		logger.info("clicked on search button");
 		Thread.sleep(2000);
 		
-		sh.sortProductSearch();
+		sh.sortProductSearch("Price (Low > High)");
 		logger.info("Sort product with price from Low to high");
 		Thread.sleep(2000);
 		
 		logger.info("***Verifying that Macbook product  exists***");
 		
-		String product = sh.verifyProductExists("MacBook");
-		Assert.assertSame(product, product, "Product Exists and Test Passed");
+		boolean product = sh.verifyProductExists("MacBook");
+		Assert.assertEquals(product, true);
+		}
+		catch (Exception e) {
+			Assert.fail();
+		}
 		
-		logger.info("***Finished TC_004_Search***");
-		
-		
-		
-		
+		logger.info("***Finished TC_004_SearchProductTest***");
 		
 		
 		
